@@ -2,7 +2,7 @@
 
 ## Index
 * [Webtools](#Web-tools)
-* [Gihtub](#Github)
+* [Github](#Github)
 
 ### Web tools 
 * webpack

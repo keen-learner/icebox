@@ -3,7 +3,7 @@
 ## Index
 * [Webtools](#web-tools)
 * [Github](#github)
-* [Readings](readings)
+* [Readings](#readings)
 
 ### Web tools 
 * webpack

@@ -1,8 +1,8 @@
 # Icebox
 
 ## Index
-* [Webtools](#Web-tools)
-* [Github](#Github)
+* [Webtools](#web-tools)
+* [Github](#github)
 
 ### Web tools 
 * webpack
